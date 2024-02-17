@@ -1,0 +1,12 @@
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\bin\Debug\controle.exe.config
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\bin\Debug\controle.exe
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\bin\Debug\controle.pdb
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\bin\Debug\controle.xml
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\obj\Debug\controle.vbproj.AssemblyReference.cache
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\obj\Debug\controle.Form1.resources
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\obj\Debug\controle.Resources.resources
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\obj\Debug\controle.vbproj.GenerateResource.cache
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\obj\Debug\controle.vbproj.CoreCompileInputs.cache
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\obj\Debug\controle.exe
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\obj\Debug\controle.xml
+C:\Users\EliteBook 840 G4\Desktop\controle\controle\obj\Debug\controle.pdb
